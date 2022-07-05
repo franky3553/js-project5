@@ -1,3 +1,4 @@
 add side bar
 add js selections
-add toggle event
+add toggle sidebar event
+add close sidebar event

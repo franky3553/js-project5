@@ -1,2 +1,3 @@
 add side bar
 add js selections
+add toggle event

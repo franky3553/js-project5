@@ -1,1 +1,2 @@
 add side bar
+add js selections
